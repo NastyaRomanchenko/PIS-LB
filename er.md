@@ -74,7 +74,7 @@ erDiagram
     USER ||--o{ MEDICAL_RESULT : "загружает"
     USER ||--o{ INSURANCE_POLICY : "оформляет"
     USER ||--o{ REQUEST_FOR_DOCS : "создает запрос"
-    ```
+```
 
 
 
