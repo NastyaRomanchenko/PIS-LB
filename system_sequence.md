@@ -1,4 +1,5 @@
 # Системная диаграмма последовательностей
+
 ```mermaid
 sequenceDiagram
     autonumber
